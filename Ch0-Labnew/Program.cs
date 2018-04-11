@@ -12,6 +12,8 @@ namespace Ch0_Labnew
         {
             int a = 1;
             Console.WriteLine(a);
+            string b = "我的學號:5659534";
+            Console.WriteLine(b);
         }
     }
 }
