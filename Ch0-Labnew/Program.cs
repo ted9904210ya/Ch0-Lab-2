@@ -12,6 +12,8 @@ namespace Ch0_Labnew
         {
             int a = 1;
             Console.WriteLine(a);
+            string c = "ted";
+            Console.WriteLine(c);
         }
     }
 }
